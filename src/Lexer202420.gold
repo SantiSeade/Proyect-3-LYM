@@ -1,5 +1,7 @@
 using gold.**
 
+// Hola
+
 var currentString: String
 var images: GArrayList()
 
