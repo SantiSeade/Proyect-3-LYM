@@ -1,6 +1,6 @@
 using gold.**
 
-// Hola
+// Hola hola 
 
 var currentString: String
 var images: GArrayList()
